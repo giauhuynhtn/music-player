@@ -24,7 +24,7 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     songs: [
         {
-            name: 'Noi Minh dung chan',
+            name: 'Noi minh dung chan',
             singer: 'My Tam',
             path: './assets/music/song1.mp3',
             image: './assets/img/song1.jpeg',
